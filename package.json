@@ -1,0 +1,18 @@
+{
+  "name": "yuki-furukawa-dataform-pakcage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@rendezvous.m3.com:3789/yuki-furukawa/yuki-furukawa-dataform-pakcage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dataform/core": "^2.1.0"
+  }
+}
